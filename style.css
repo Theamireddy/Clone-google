@@ -1,0 +1,13 @@
+
+input{
+    text-align: center;
+}
+
+.google-input{
+    border: none;
+    border:1.5px solid rgb(214, 213, 213);
+    outline: none;
+    border-radius: 5px;
+
+
+}
